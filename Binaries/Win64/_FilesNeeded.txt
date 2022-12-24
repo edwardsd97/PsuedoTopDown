@@ -1,0 +1,7 @@
+Only files needed here are:
+
+PsuedoTopDownEditor.target
+UnrealEditor.modules
+UnrealEditor-PsuedoTopDown.dll
+
+UnrealEditor-PsuedoTopDown.pdb (optional really)
