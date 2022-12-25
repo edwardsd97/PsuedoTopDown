@@ -47,10 +47,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
+Binaries/*
 Plugins/*/Binaries/*
-
-# Include Binaries for custom modules (so users without VS don't need to compile it)
-# Binaries/*
 
 # Builds
 Build/*
